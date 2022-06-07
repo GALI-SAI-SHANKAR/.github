@@ -1,5 +1,4 @@
-## Hi there 👋
-
+### Hi there 👋<h2> We build things society needs! That's what motivates this organization! </h2>
 <!--
 
 **Here are some ideas to get you started:**
